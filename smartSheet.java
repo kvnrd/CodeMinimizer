@@ -67,7 +67,6 @@ public class smartSheet {
             }
 
 
-
         }
 
         return output.toString();
@@ -90,6 +89,11 @@ public class smartSheet {
     public static void main(String args[]){
 
         System.out.print(minifiedCode("you say yes, I say no you say stop and I say go go go"));
+        System.out.print("Hello");
+        System.out.print("Hello");
+        System.out.print("Hello");
+        System.out.print("Hello");
+        System.out.print("Hello");
 
     }
 
