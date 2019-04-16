@@ -94,6 +94,12 @@ public class smartSheet {
         System.out.print("Goodbye");
         System.out.print("Goodbye");
         System.out.print("Goodbye");
+        System.out.print("Hello");
+        System.out.print("Hello");
+        System.out.print("Hello");
+        System.out.print("hi");
+        System.out.print("hi");
+        System.out.print("hi");
 
     }
 
