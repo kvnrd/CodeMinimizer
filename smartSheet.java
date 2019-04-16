@@ -91,9 +91,9 @@ public class smartSheet {
         System.out.print(minifiedCode("you say yes, I say no you say stop and I say go go go"));
         System.out.print("Hello");
         System.out.print("Hello");
-        System.out.print("Hello");
-        System.out.print("Hello");
-        System.out.print("Hello");
+        System.out.print("Goodbye");
+        System.out.print("Goodbye");
+        System.out.print("Goodbye");
 
     }
 
