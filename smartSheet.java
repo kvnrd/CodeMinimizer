@@ -39,13 +39,8 @@ the non-identifier to the output String.
 
 public class smartSheet {
 
-
-
     public static String minifiedCode (String input){
-
-
         HashMap<String,Integer> hm = new HashMap();
-
         int indexCounter = 0;
         StringBuilder output = new StringBuilder();
         StringBuilder word = new StringBuilder();
@@ -61,9 +56,7 @@ public class smartSheet {
 
             }
 
-            else{ //its not a letter
-
-
+            else{ 
                 if (word.length() != 0) { //making sure the word is greater than zero in order to keep indexCounter correct
                     appendValue(hm, output, indexCounter, word.toString());
                     indexCounter++;
